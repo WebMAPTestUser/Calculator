@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpgradeLog>
+  <Settings>
+    <Setting Name="LogFile" Value="prjCalculator.log" />
+    <Setting Name="GenerateInterfacesForClasses" Value="FALSE" />
+    <Setting Name="ProjectName" Value="prjCalculator" />
+    <Setting Name="OutputName" Value="prjCalculator.csproj" />
+    <Setting Name="OutputDir" Value="C:\vbsample\Calculator\09-11-Calculator_.Net\Upgraded\" />
+    <Setting Name="ProjectPath" Value="C:\vbsample\Calculator\09-11-Calculator\prjCalculator.vbp" />
+    <Setting Name="MigrateProjectTo" Value="WinExe" />
+  </Settings>
+  <File OldPath="C:\vbsample\Calculator\09-11-Calculator\frmCalculator.frm" NewPath="C:\vbsample\Calculator\09-11-Calculator_.Net\Upgraded\frmCalculator.cs" FileType="Form" Upgraded="True">
+    <Section Name="Form_Load">
+      <Issue Type="Runtime" Number="2080" ObjectType="Form" PME="Load" Qty="1">Form_Load event was upgraded to Form_Load event and has a new behavior.</Issue>
+    </Section>
+    <Section Name="Form_KeyDown">
+      <Issue Type="Runtime" Number="6021" Qty="1">Casting 'int' to Enum may cause different behaviour.</Issue>
+    </Section>
+  </File>
+</UpgradeLog>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Solution xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MapModuleId>3</MapModuleId>
+  <Properties>
+    <ConfigProperty xsi:type="LabelConfigProperty" Name="SolutionName" IsEnabled="false" Value="Calculator" Group="" />
+    <ConfigProperty xsi:type="PathConfigProperty" Name="InputSolution" IsEnabled="false" Value="S:\Workspace\Samples\Calculator\Calculator.sln" Group="" />
+    <ConfigProperty xsi:type="PathConfigProperty" Name="OutputPath" IsEnabled="true" Value="S:\Workspace\Samples\Calculator-Migrated" Group="" />
+  </Properties>
+  <Extensions />
+</Solution>
