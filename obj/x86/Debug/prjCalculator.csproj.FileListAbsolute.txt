@@ -1,7 +1,0 @@
-S:\Projects\Workspace\Samples\Calculator\bin\prjCalculator.exe
-S:\Projects\Workspace\Samples\Calculator\bin\prjCalculator.pdb
-S:\Projects\Workspace\Samples\Calculator\obj\x86\Debug\prjCalculator.csprojResolveAssemblyReference.cache
-S:\Projects\Workspace\Samples\Calculator\obj\x86\Debug\prjCalculator.frmCalculator.resources
-S:\Projects\Workspace\Samples\Calculator\obj\x86\Debug\prjCalculator.csproj.GenerateResource.Cache
-S:\Projects\Workspace\Samples\Calculator\obj\x86\Debug\prjCalculator.exe
-S:\Projects\Workspace\Samples\Calculator\obj\x86\Debug\prjCalculator.pdb
